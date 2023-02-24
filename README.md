@@ -1,5 +1,7 @@
 # infosec-search-list
 > A List from the Certification Station #infosec-resources Discord channel. Check them out for your cert studying needs. They're great!
+[Certification Station Website](https://certificationstation.org/)
+[Certification Station Youtube Channel](
 
 ## Contents
 
@@ -35,124 +37,124 @@
 * [SearchCode](#SearchCode)
 * [Virustotal](#VirusTotal)
 
-## Dehashed
+## Dehashed (View leaked credentials.)
 * [Dehashed](https://dehashed.com/)
 
-## SecurityTrails
+## SecurityTrails (Extensive DNS data.)
 
 * [SecurityTrails](https://securitytrails.com/)
 
-## DorkSearch
+## DorkSearch (Really fast Google dorking.)
 * [DorkSearch](https://dorksearch.com/)
 
-## ExploitDB
+## ExploitDB (Archive of various exploits.)
 
 *  [ExploitDB](https://www.exploit-db.com/)
 
-## ZoomEye
+## ZoomEye (Gather information about targets.)
 
 * [ZoomEye](https://www.zoomeye.org/)
 
-## Pulsedive
+## Pulsedive (Search for threat intelligence.)
 
 * [Pulsedive](https://pulsedive.com/)
 
-## GrayHatWarfare
+## GrayHatWarfare (Search public S3 buckets.)
 
 * [GrayHatWarfare](https://buckets.grayhatwarfare.com/)
 
-## PolySwarm
+## PolySwarm (Scan files and URLs for threats.)
 
 * [PolySwarm](https://polyswarm.io/)
 
-## Fofa
+## Fofa (Search for various threat intelligence.)
 
 * [Fofa](https://en.fofa.info/)
 
-## LeakIX
+## LeakIX (Search publicly indexed information.)
 
 * [LeakIX](https://leakix.net/)
 
-## DNSDumpster
+## DNSDumpster (Search for DNS records quickly.)
 
 * [DNSDumpster](https://dnsdumpster.com/)
 
-## FullHunt
+## FullHunt (Search and discovery attack surfaces.)
 
 * [FullHunt](https://fullhunt.io/)
 
-## AlienVault
+## AlienVault (Extensive threat intelligence feed.)
 
 * [AlienVault](https://otx.alienvault.com/)
 
-## ONYPHE
+## ONYPHE (Collects cyber-threat intelligence data.)
 
 * [ONYPHE](https://www.onyphe.io/)
 
-## Grep-App
+## Grep-App (Search across a half million git repos.)
 
 * [Grep App](https://grep.app/)
 
-## URL-Scan
+## URL-Scan (Free service to scan and analyse websites.)
 
 * [URL Scan](https://urlscan.io/)
 
-## Vulners
+## Vulners (Search vulnerabilities in a large database.)
 
 * [Vulners](https://vulners.com/)
 
-## WayBackMachine
+## WayBackMachine (View content from deleted websites.)
 
 * [WayBackMachine](https://archive.org/web/)
 
-## Shodan
+## Shodan (Search for devices connected to the internet.)
 
 * [Shodan](https://www.shodan.io/)
 
-## Netlas
+## Netlas (Search and monitor internet connected assets.)
 
 * [Netlas](https://netlas.io/)
 
-## CRT-sh
+## CRT-sh (Search for certs that have been logged by CT.)
 
 * [CRT.sh](https://crt.sh/)
 
-## Wigle
+## Wigle (Database of wireless networks, with statistics.)
 
 * [Wigle](https://www.wigle.net/)
 
-## PublicWWW
+## PublicWWW (Marketing and affiliate marketing research.)
 
 * [PublicWWW](https://publicwww.com/)
 
-## Binary Edge
+## Binary Edge (Scans the internet for threat intelligence.)
 
 * [Binary Edge](https://www.binaryedge.io/)
 
-## GreyNoise
+## GreyNoise (Search for devices connected to the internet.)
 
 * [GreyNoise](https://www.greynoise.io/)
 
-## Hunter
+## Hunter (Search for email addresses belonging to a website.)
 
 * [Hunter](https://hunter.io/)
 
-## Censys
+## Censys (Assessing attack surface for internet connected devices.)
 
 * [Censys](https://search.censys.io/)
 
-## IntelligenceX
+## IntelligenceX (Search Tor, I2P, data leaks, domains, and emails.)
 
 * [IntelligenceX](https://intelx.io/)
 
-## PacketStorm-Security
+## PacketStorm-Security (Browse latest vulnerabilities and exploits.)
 
 * [PacketStorm Security](https://packetstormsecurity.com/)
 
-## SearchCode
+## SearchCode (Search 75 billion lines of code from 40 million projects.)
 
 * [SearchCode](https://searchcode.com/)
 
-## Virustotal
+## Virustotal (Internet security, file and URL analyzer.)
 
 * [VirustTotal](https://www.virustotal.com/gui/home/upload)
