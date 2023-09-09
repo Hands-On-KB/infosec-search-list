@@ -1,7 +1,6 @@
 # infosec-search-list
 > A List from the Certification Station #infosec-resources Discord channel. Check them out for your cert studying needs. They're great!
 [Certification Station Website](https://certificationstation.org/)
-[Certification Station Youtube Channel](
 
 ## Contents
 
