@@ -2,45 +2,61 @@
 > A List from the Certification Station #infosec-resources Discord channel. Check them out for your cert studying needs. They're great!
 [Certification Station](https://certificationstation.org/)
 
-## Contents
+<h2>## Contents</h2>
 
-<u><h2>OSINT</h2></u>
+<u><h3>Web Intel</h3></u>
 * [WayBackMachine](#WayBackMachine)
 * [Shodan](#Shodan)
 * [DNSDumpster](#DNSDumpster)
-* [FullHunt](#FullHunt)
-* [AlienVault](#AlienVault)
-* [Dehashed](#Dehashed)
 * [SecurityTrails](#SecurityTrails)
 * [DorkSearch](#DorkSearch)
-* [ExploitDB](#ExploitDB)
 * [ZoomEye](#ZoomEye)
-* [Pulsedive](#Pulsedive)
 * [GrayHatWarfare](#GrayHatWarfare)
-* [PolySwarm](#PolySwarm)
 * [Fofa](#Fofa)
 * [LeakIX](#LeakIX)
-* [ONYPHE](#ONYPHE)
-* [Grep App](#Grep-App)
 * [URL Scan](#URL-Scan)
-* [Vulners](#Vulners)
 * [Netlas](#Netlas)
 * [CRT sh](#CRT-sh)
 * [Wigle](#Wigle)
 * [PublicWWW](#PublicWWW)
-* [Binary Edge](#Binary)
 * [GreyNoise](#GreyNoise)
 * [Hunter](#Hunter)
-* [Censys](#Censys)
 * [IntelligenceX](#IntelligenceX)
-* [PacketStorm Security](#PacketStorm-Security)
-* [SearchCode](#SearchCode)
-* [Virustotal](#VirusTotal)
 
-<u><h2>Exploit Data</h2></u>
+<u><h3>Threat Intel</h3></u>
+* [Pulsedive](#Pulsedive)
+* [FullHunt](#FullHunt)
+* [AlienVault](#AlienVault)
+* [ONYPHE](#ONYPHE)
+* [Censys](#Censys)
+
+<u><h3>Bucket/Repo/Code Scrapers</h3></u>
+* [SearchCode](#SearchCode)
+* [Grep App](#Grep-App)
+
+<u><h3>Vulnerability Data</h3></u>
+* [Virustotal](#VirusTotal)
+* [ExploitDB](#ExploitDB)
+* [Vulners](#Vulners)
+* [PacketStorm Security](#PacketStorm-Security)
+* [PolySwarm](#PolySwarm)
+* [Binary Edge](#Binary)
+
+<u><h3>Exploitable Info</h3></u>
 * [LOLDrivers](#LOLDrivers)
 * [LOLBAS](#LOLBAS)
 * [GTFOBins](#GTFOBins)
+* [Dehashed](#Dehashed)
+
+<u><h3>Good Reference/Learning Material</u></h3>
+* [iRed.Team Notes](#iRed.Team)
+* [Hacking the Hiring Process by Pentesting FOSS Applications](#HackingFOSS)
+* [Hacking The Cloud](#HackingTheCloud)
+
+<u><h3>Tools</u></h3>
+* [cracker-ng](#cracker-ng)
+* [Caido](#Caido)
+* [NetExec](#NetExec)
   
 ## Dehashed (View leaked credentials.)
 * [Dehashed](https://dehashed.com/)
@@ -172,3 +188,24 @@
 
 ## GTFOBins (Living-Off-the-Land Unix Binaries)
 * [GTFOBins](https://gtfobins.github.io/)
+
+## iRed.Team Notes (Notes on Red Teaming and Offsec)
+* [iRed.Team Notes](https://www.ired.team/)
+
+## Joe Helle - "Hacking the Hiring Process by Pentesting FOSS Applications"
+* [HackingFOSS](https://docs.google.com/presentation/d/1b_pEoojIgieYrr8L4QQ7XDBzw4VkDe4P/edit#slide=id.p31)
+
+## cracker-ng (Archive file cracker)
+* [cracker-ng](https://github.com/BoboTiG/cracker-ng)
+
+## Caido (Lightweight web security auditing toolkit/Burp alternative)
+* [Caido](https://caido.io/)
+
+## SharPersist (Windows persistence toolkit written in C#)
+* [SharPersist](https://github.com/mandiant/SharPersist)
+
+## NetExec (Network Execution Tool/CrackMapExec alternative)
+* [NetExec](https://github.com/Pennyw0rth/NetExec)
+
+## Hacking The Cloud (Encyclopedia of cloud attacks/tactics/techniques used by offsec professionals)
+* [HackingTheCloud](https://hackingthe.cloud/)
