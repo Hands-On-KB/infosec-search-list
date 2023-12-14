@@ -1,9 +1,15 @@
-# infosec-search-list
+<h1># infosec-search-list</h1>
 > A List from the Certification Station #infosec-resources Discord channel. Check them out for your cert studying needs. They're great!
 [Certification Station](https://certificationstation.org/)
 
 ## Contents
 
+<u><h2>OSINT</h2></u>
+* [WayBackMachine](#WayBackMachine)
+* [Shodan](#Shodan)
+* [DNSDumpster](#DNSDumpster)
+* [FullHunt](#FullHunt)
+* [AlienVault](#AlienVault)
 * [Dehashed](#Dehashed)
 * [SecurityTrails](#SecurityTrails)
 * [DorkSearch](#DorkSearch)
@@ -14,15 +20,10 @@
 * [PolySwarm](#PolySwarm)
 * [Fofa](#Fofa)
 * [LeakIX](#LeakIX)
-* [DNSDumpster](#DNSDumpster)
-* [FullHunt](#FullHunt)
-* [AlienVault](#AlienVault)
 * [ONYPHE](#ONYPHE)
 * [Grep App](#Grep-App)
 * [URL Scan](#URL-Scan)
 * [Vulners](#Vulners)
-* [WayBackMachine](#WayBackMachine)
-* [Shodan](#Shodan)
 * [Netlas](#Netlas)
 * [CRT sh](#CRT-sh)
 * [Wigle](#Wigle)
@@ -36,6 +37,11 @@
 * [SearchCode](#SearchCode)
 * [Virustotal](#VirusTotal)
 
+<u><h2>Exploit Data</h2></u>
+* [LOLDrivers](#LOLDrivers)
+* [LOLBAS](#LOLBAS)
+* [GTFOBins](#GTFOBins)
+  
 ## Dehashed (View leaked credentials.)
 * [Dehashed](https://dehashed.com/)
 
@@ -157,3 +163,12 @@
 ## Virustotal (Internet security, file and URL analyzer.)
 
 * [VirustTotal](https://www.virustotal.com/gui/home/upload)
+
+## LOLDrivers (Living-Off-the-Land Windows Drivers)
+* [LOLDrivers](https://www.loldrivers.io/)
+
+## LOLBAS (Living-Off-the-Land Windows Binaries, Scripts, and Libraries)
+* [LOLBAS](https://lolbas-project.github.io/)
+
+## GTFOBins (Living-Off-the-Land Unix Binaries)
+* [GTFOBins](https://gtfobins.github.io/)
