@@ -1,6 +1,5 @@
-<h1>infosec-search-list</h1>
-A List from the Certification Station #infosec-resources Discord channel. Check them out for your cert studying needs. They're great!
-[Certification Station](https://certificationstation.org/)
+<h1>Infosec-Knowledge-List</h1>
+Started as a list from the Certification Station #infosec-resources Discord channel but now includes references to tools and learning resources from a variety of sources in infosec.
 
 <h2>## Contents</h2>
 
