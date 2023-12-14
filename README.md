@@ -1,5 +1,5 @@
-<h1># infosec-search-list</h1>
-> A List from the Certification Station #infosec-resources Discord channel. Check them out for your cert studying needs. They're great!
+<h1>infosec-search-list</h1>
+A List from the Certification Station #infosec-resources Discord channel. Check them out for your cert studying needs. They're great!
 [Certification Station](https://certificationstation.org/)
 
 <h2>## Contents</h2>
