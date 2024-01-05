@@ -40,6 +40,8 @@ Started as a list from the Certification Station #infosec-resources Discord chan
 * [PacketStorm Security](#PacketStorm-Security)
 * [PolySwarm](#PolySwarm)
 * [Binary Edge](#Binary)
+* [Hacktivity](#Hacktivity)
+* [Crowdstream](#Crowdstream)
 
 <u><h3>Exploitable Info</h3></u>
 * [LOLDrivers](#LOLDrivers)
@@ -216,3 +218,9 @@ Started as a list from the Certification Station #infosec-resources Discord chan
 
 ## Payloads All The Things (Repository of web application testing/hacking)
 * [PayloadsAllTheThings](https://swisskyrepo.github.io/PayloadsAllTheThings/)
+
+## Hacktivity (Repository of bug bounty submissions on HackerOne)
+* [Hacktivity](https://hackerone.com/hacktivity/overview)
+
+## Crowdstream (Repository of bug bounty submissions from Crowdstrike)
+* [Crowdstream](https://bugcrowd.com/crowdstream)
