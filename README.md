@@ -52,6 +52,7 @@ Started as a list from the Certification Station #infosec-resources Discord chan
 * [Hacking the Hiring Process by Pentesting FOSS Applications](#HackingFOSS)
 * [Hacking The Cloud](#HackingTheCloud)
 * [Pentest Book](#PentestBook)
+* [PayloadsAllTheThings](#PayloadsAllTheThings)
 
 <u><h3>Tools</u></h3>
 * [cracker-ng](#cracker-ng)
@@ -212,3 +213,6 @@ Started as a list from the Certification Station #infosec-resources Discord chan
 
 ## Six2Dez's Pentest Book (Wiki for offensive security techniques)
 * [Pentest Book](https://pentestbook.six2dez.com/)
+
+## Payloads All The Things (Repository of web application testing/hacking)
+* [PayloadsAllTheThings](https://swisskyrepo.github.io/PayloadsAllTheThings/)
