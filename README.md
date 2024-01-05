@@ -51,7 +51,7 @@ Started as a list from the Certification Station #infosec-resources Discord chan
 * [iRed.Team Notes](#iRed.Team)
 * [Hacking the Hiring Process by Pentesting FOSS Applications](#HackingFOSS)
 * [Hacking The Cloud](#HackingTheCloud)
-* [Six2Dez Pentest Book](#PentestBook)
+* [Pentest Book](#PentestBook)
 
 <u><h3>Tools</u></h3>
 * [cracker-ng](#cracker-ng)
@@ -211,4 +211,4 @@ Started as a list from the Certification Station #infosec-resources Discord chan
 * [HackingTheCloud](https://hackingthe.cloud/)
 
 ## Six2Dez's Pentest Book (Wiki for offensive security techniques)
-* [PentestBook](https://pentestbook.six2dez.com/)
+* [Pentest Book](https://pentestbook.six2dez.com/)
