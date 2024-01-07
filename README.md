@@ -48,6 +48,7 @@ Started as a list from the Certification Station #infosec-resources Discord chan
 * [LOLBAS](#LOLBAS)
 * [GTFOBins](#GTFOBins)
 * [Dehashed](#Dehashed)
+* [Linux Smart Enumeration](#LSE)
 
 <u><h3>Good Reference/Learning Material</u></h3>
 * [iRed.Team Notes](#iRed.Team)
@@ -224,3 +225,6 @@ Started as a list from the Certification Station #infosec-resources Discord chan
 
 ## Crowdstream (Repository of bug bounty submissions from Crowdstrike)
 * [Crowdstream](https://bugcrowd.com/crowdstream)
+
+## Linux Smart Enumeration (LinPEAS alternative)
+* [LSE](https://github.com/diego-treitos/linux-smart-enumeration)
