@@ -3,6 +3,10 @@ Started as a list from the Certification Station #infosec-resources Discord chan
 
 <h2>## Contents</h2>
 
+<u><h3>Privacy & Personal OSINT</h3></u>
+* [Browser Leaks](#BrowserLeaks)
+* [CoverYourTracks](#CoverYourTracks)
+  
 <u><h3>Web Intel</h3></u>
 * [WayBackMachine](#WayBackMachine)
 * [Shodan](#Shodan)
@@ -62,6 +66,12 @@ Started as a list from the Certification Station #infosec-resources Discord chan
 * [Caido](#Caido)
 * [NetExec](#NetExec)
   
+## BrowserLeaks (Ways your browser can be used to ID you)
+* [BrowserLeaks](https://browserleaks.com)
+
+## CoverYourTracks (EFF Browser Fingerprinting Educational Tool)
+* [CoverYourTracks](https://coveryourtracks.eff.org)
+
 ## Dehashed (View leaked credentials.)
 * [Dehashed](https://dehashed.com/)
 
